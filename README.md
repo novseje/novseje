@@ -4,3 +4,5 @@ Professional in Symfony and Laravel frameworks with PostgreSQL or MySQL database
 However, I can quickly adapt to virtually any PHP-based framework or CMS.
 
 Beyond backend development, I have strong frontend skills and proficiency in JavaScript, TypeScript, React, Vue.js, jQuery, and Bootstrap.
+
+I'm not afraid of unfamiliar technologies. My experience allows me to quickly learn new technologies.
