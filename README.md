@@ -6,3 +6,5 @@ However, I can quickly adapt to virtually any PHP-based framework or CMS.
 Beyond backend development, I have strong frontend skills and proficiency in JavaScript, TypeScript, React, Vue.js, jQuery, and Bootstrap.
 
 I'm not afraid of unfamiliar technologies. My experience allows me to quickly learn new technologies.
+
+In recent years, I have expanded into mobile development, utilizing React Native for cross-platform applications. I also have experience with native app development in Swift and some familiarity with Java and Objective-C.
