@@ -9,4 +9,4 @@ However, I can quickly adapt to virtually any PHP-based framework or CMS.
 
 💡 My mobile development skillset includes **React Native** for cross-platform applications. I also have experience with native app development in *Swift* and some familiarity with *Java* and *Objective-C*.
 
-🛠️ Additionally, I have a solid understanding of server administration, including configuring *Nginx*, *Apache*, mail servers, *Redis*, *Memcached*, and more.
+🛠️ Additionally, I have a solid understanding of server administration, including configuring *Nginx*, *Apache*, *OpenLiteSpeed*, mail servers, *Redis*, *Memcached*, and more.
